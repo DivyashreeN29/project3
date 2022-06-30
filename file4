@@ -1,4 +1,4 @@
-testing github commands
-
-adding new lines
-for testing the merge command
+#!/bin/bash
+read num1
+read num2
+sum=`expr $num1 + $num2'
